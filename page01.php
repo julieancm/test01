@@ -9,23 +9,17 @@
 
 <?php
 
-print "日本語文字テスト日本語文字テスト日本語文字テスト日本語文字テスト";
-print "日本語文字テスト日本語文字テスト日本語文字テスト日本語文字テスト";
+
 print "日本語文字テスト日本語文字テスト日本語文字テスト日本語文字テスト";
 print "日本語文字テスト日本語文字テスト日本語文字テスト日本語文字テスト";
 print "Hello World!Hello World!Hello World!Hello World!Hello World!";
 print "Hello World!Hello World!Hello World!Hello World!Hello World!";
 print "Hello World!Hello World!Hello World!Hello World!Hello World!";
-print "Hello World!Hello World!Hello World!Hello World!Hello World!";
 print "日本語文字テスト日本語文字テスト日本語文字テスト日本語文字テスト";
 print "日本語文字テスト日本語文字テスト日本語文字テスト日本語文字テスト";
-print "日本語文字テスト日本語文字テスト日本語文字テスト日本語文字テスト";
+print "テストテストテストテストテストテストテストテストテストテストテスト";
 
 
-print "日本号文字";
-print "日本号文字";
-print "日本号文字";
-print "日本号文字";
 print "日本号文字";
 print "日本号文字";
 print "日本号文字";

@@ -9,13 +9,18 @@
 
 <?php
 
-	print "Hello World!"
-	print "Hello World!"
-	print "Hello World!"
-	print "Hello World!"
-	print "Hello World!"
-	print "Hello World!"
-
+	print "Hello World!";
+	print "Hello World!";
+	print "Hello World!";
+	print "Hello World!";
+	print "Hello World!";
+	print "Hello World!";
+		print "テスト・テスト";
+		print "テスト・テスト";
+		print "テスト・テスト";
+		print "テスト・テスト";
+		print "テスト・テスト";
+		print "テスト・テスト";
 ?>
 
 </body>
